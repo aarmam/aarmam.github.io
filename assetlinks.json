@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ee.ria.wallet.debug",
+    "sha256_cert_fingerprints":
+   ["28:C5:74:41:41:E2:5D:33:CD:3D:A9:13:CC:43:35:02:89:FD:36:9B:52:90:C9:B3:C3:BF:E3:D8:F8:06:E4:D4"]
+  }
+}]
