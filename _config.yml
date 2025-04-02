@@ -1,5 +1,1 @@
 include: [".well-known"]
-
-webrick:
-  headers:
-    Content-Type: application/statuslist+jwt
